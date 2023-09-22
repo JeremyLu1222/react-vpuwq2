@@ -1,0 +1,23 @@
+#activity {
+  width: 400px;
+}
+.Thumbnail {
+  border: 1px solid #333;
+  width: 250px;
+  text-align: center;
+  margin: 15px;
+}
+#color {
+  background-color: orange;
+}
+.Thumbnail img {
+  width: 200px;
+  height: auto;
+}
+body {
+  width: auto;
+  text-align: left;
+}
+h1 {
+  color: blue;
+}
